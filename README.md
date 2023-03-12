@@ -2,7 +2,7 @@
 
 Node.js向けTypeScript環境のボイラープレートです。
 
-* Node.js 16
-* TypeScript 4.8
+* Node.js 18
+* TypeScript 4.9
 * ESLint (Airbnbスタイル)
 * Jest
